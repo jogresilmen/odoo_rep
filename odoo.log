@@ -1,0 +1,143 @@
+2022-06-28 00:04:57,860 14888 INFO ? odoo: Odoo version 15.0-20220627 
+2022-06-28 00:04:57,860 14888 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-06-28 00:04:57,860 14888 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-06-28 00:04:57,860 14888 INFO ? odoo: database: openpg@localhost:5432 
+2022-06-28 00:04:58,913 14888 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at wkhtmltopdf.exe 
+2022-06-28 00:04:59,843 14888 INFO ? odoo.service.server: Initiating shutdown 
+2022-06-28 00:04:59,843 14888 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-06-28 00:05:05,406 3532 INFO ? odoo: Odoo version 15.0-20220627 
+2022-06-28 00:05:05,406 3532 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-06-28 00:05:05,406 3532 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-06-28 00:05:05,407 3532 INFO ? odoo: database: openpg@localhost:5432 
+2022-06-28 00:05:05,660 3532 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo\thirdparty\wkhtmltopdf.exe 
+2022-06-28 00:05:06,074 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:06,150 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:06,830 3532 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-FRM8K7P:8069 
+2022-06-28 00:05:43,524 3532 INFO ? odoo.http: HTTP Configuring static files 
+2022-06-28 00:05:45,017 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:45,018 3532 INFO ? odoo.http: Generating nondb routing 
+2022-06-28 00:05:45,061 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:45] "GET / HTTP/1.1" 303 - 0 0.000 1.490
+2022-06-28 00:05:45,479 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:45,614 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:45,620 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:45] "GET /web HTTP/1.1" 303 - 0 0.000 0.424
+2022-06-28 00:05:46,189 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:46,440 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-28 00:05:46,570 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:46] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.607
+2022-06-28 00:05:46,831 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:46] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 - - - -
+2022-06-28 00:05:47,146 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:47] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:47,147 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:47] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 - - - -
+2022-06-28 00:05:47,340 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:47] "GET /web/static/lib/popper/popper.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:50,571 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:50] "GET /web/static/lib/bootstrap/js/index.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:50,575 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:50] "GET /web/static/lib/bootstrap/js/util.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:50,581 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:50] "GET /web/static/lib/bootstrap/js/alert.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:50,955 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:50] "GET /web/static/lib/bootstrap/js/button.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,264 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/carousel.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,264 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/collapse.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,272 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,590 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,594 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,602 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/popover.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,852 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/scrollspy.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,917 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/lib/bootstrap/js/tab.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,922 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - - - -
+2022-06-28 00:05:51,936 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:51] "GET /web/static/img/logo2.png HTTP/1.1" 200 - - - -
+2022-06-28 00:05:52,273 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:52] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - - - -
+2022-06-28 00:05:52,693 3532 INFO ? werkzeug: 127.0.0.1 - - [28/Jun/2022 00:05:52] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - - - -
+2022-06-29 11:49:00,724 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:49:00,762 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:00] "GET / HTTP/1.1" 303 - 0 0.000 0.206
+2022-06-29 11:49:00,867 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:49:01,009 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:49:01,016 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web HTTP/1.1" 303 - 0 0.000 0.245
+2022-06-29 11:49:01,172 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:49:01,408 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:49:01,528 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web/database/selector HTTP/1.1" 200 - 0 0.000 0.504
+2022-06-29 11:49:01,936 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 - - - -
+2022-06-29 11:49:01,939 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 - - - -
+2022-06-29 11:49:01,972 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web/static/lib/popper/popper.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:01,974 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:01] "GET /web/static/lib/bootstrap/js/index.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,001 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/util.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,022 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,287 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/button.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,288 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/alert.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,313 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/carousel.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,328 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/collapse.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,328 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,352 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,676 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/tab.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,679 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/scrollspy.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,686 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/src/public/database_manager.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,689 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:02,691 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:02] "GET /web/static/lib/bootstrap/js/popover.js HTTP/1.1" 200 - - - -
+2022-06-29 11:49:03,021 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:03] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 - - - -
+2022-06-29 11:49:03,210 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:03] "GET /web/static/img/logo2.png HTTP/1.1" 200 - - - -
+2022-06-29 11:49:03,292 3532 INFO ? werkzeug: 127.0.0.1 - - [29/Jun/2022 11:49:03] "GET /web/static/img/favicon.ico HTTP/1.1" 200 - - - -
+2022-06-29 11:50:09,494 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:50:09,644 3532 INFO None odoo.service.db: Create database `odoo`. 
+2022-06-29 11:50:09,724 3532 INFO None odoo.sql_db: Connection to the database failed 
+2022-06-29 11:50:09,727 3532 ERROR None odoo.http:  
+Traceback (most recent call last):
+  File "C:\odoo\server\odoo\http.py", line 141, in dispatch_rpc
+    result = dispatch(method, params)
+  File "C:\odoo\server\odoo\service\db.py", line 462, in dispatch
+    return g[exp_method_name](*params)
+  File "<decorator-gen-14>", line 2, in exp_create_database
+  File "C:\odoo\server\odoo\service\db.py", line 41, in if_db_mgt_enabled
+    return method(self, *args, **kwargs)
+  File "C:\odoo\server\odoo\service\db.py", line 130, in exp_create_database
+    _create_empty_database(db_name)
+  File "C:\odoo\server\odoo\service\db.py", line 99, in _create_empty_database
+    with closing(db.cursor()) as cr:
+  File "C:\odoo\server\odoo\sql_db.py", line 708, in cursor
+    return Cursor(self.__pool, self.dbname, self.dsn, serialized=serialized)
+  File "C:\odoo\server\odoo\sql_db.py", line 258, in __init__
+    self._cnx = pool.borrow(dsn)
+  File "C:\odoo\server\odoo\sql_db.py", line 591, in _locked
+    return fun(self, *args, **kwargs)
+  File "C:\odoo\server\odoo\sql_db.py", line 659, in borrow
+    **connection_info)
+  File "C:\odoo\python\lib\site-packages\psycopg2\__init__.py", line 127, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError
+2022-06-29 11:50:09,900 3532 INFO None odoo.sql_db: Connection to the database failed 
+2022-06-29 11:50:09,947 3532 INFO None werkzeug: 127.0.0.1 - - [29/Jun/2022 11:50:09] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.526
+2022-06-29 11:51:17,414 3532 INFO ? odoo.sql_db: Connection to the database failed 
+2022-06-29 11:51:17,589 3532 INFO None odoo.sql_db: Connection to the database failed 
+2022-06-29 11:51:17,638 3532 INFO None werkzeug: 127.0.0.1 - - [29/Jun/2022 11:51:17] "POST /web/database/create HTTP/1.1" 200 - 0 0.000 0.294
+2022-07-01 23:09:20,878 4392 INFO ? odoo: Odoo version 15.0-20220627 
+2022-07-01 23:09:20,878 4392 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-07-01 23:09:20,878 4392 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-07-01 23:09:20,878 4392 INFO ? odoo: database: openpg@localhost:5432 
+2022-07-01 23:09:21,472 4392 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo\thirdparty\wkhtmltopdf.exe 
+2022-07-01 23:09:22,034 4392 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-01 23:09:22,128 4392 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-01 23:09:22,847 4392 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-FRM8K7P:8069 
+2022-07-14 01:41:02,386 5508 INFO ? odoo: Odoo version 15.0-20220627 
+2022-07-14 01:41:02,386 5508 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-07-14 01:41:02,386 5508 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-07-14 01:41:02,386 5508 INFO ? odoo: database: openpg@localhost:5432 
+2022-07-14 01:41:02,870 5508 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo\thirdparty\wkhtmltopdf.exe 
+2022-07-14 01:41:03,433 5508 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-14 01:41:03,526 5508 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-14 01:41:04,230 5508 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-FRM8K7P:8069 
+2022-07-14 01:42:22,926 5508 INFO ? odoo.service.server: Initiating shutdown 
+2022-07-14 01:42:22,926 5508 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-07-14 01:42:23,379 5508 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-07-14 23:30:25,809 4636 INFO ? odoo: Odoo version 15.0-20220627 
+2022-07-14 23:30:25,809 4636 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-07-14 23:30:25,824 4636 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-07-14 23:30:25,824 4636 INFO ? odoo: database: openpg@localhost:5432 
+2022-07-14 23:30:26,465 4636 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo\thirdparty\wkhtmltopdf.exe 
+2022-07-14 23:30:27,043 4636 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-14 23:30:27,121 4636 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-14 23:30:27,824 4636 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-FRM8K7P:8069 
+2022-07-24 16:30:06,640 4636 INFO ? odoo.service.server: Initiating shutdown 
+2022-07-24 16:30:06,718 4636 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown. 
+2022-07-24 16:30:07,155 4636 INFO ? odoo.sql_db: ConnectionPool(used=0/count=0/max=64): Closed 0 connections  
+2022-07-24 16:30:46,597 4456 INFO ? odoo: Odoo version 15.0-20220627 
+2022-07-24 16:30:46,597 4456 INFO ? odoo: Using configuration file at C:\odoo\server\odoo.conf 
+2022-07-24 16:30:46,597 4456 INFO ? odoo: addons paths: ['C:\\odoo\\server\\odoo\\addons', 'c:\\users\\administrador\\appdata\\local\\openerp s.a\\odoo\\addons\\15.0', 'c:\\odoo\\server\\odoo\\addons'] 
+2022-07-24 16:30:46,597 4456 INFO ? odoo: database: openpg@localhost:5432 
+2022-07-24 16:30:47,128 4456 INFO ? odoo.addons.base.models.ir_actions_report: Will use the Wkhtmltopdf binary at C:\odoo\thirdparty\wkhtmltopdf.exe 
+2022-07-24 16:30:47,613 4456 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-24 16:30:47,675 4456 INFO ? odoo.sql_db: Connection to the database failed 
+2022-07-24 16:30:48,425 4456 INFO ? odoo.service.server: HTTP service (werkzeug) running on DESKTOP-FRM8K7P:8069 
